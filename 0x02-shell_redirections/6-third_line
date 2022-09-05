@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 26 iacta | tail -n + 3
+cat iacta | head -n 26 | tail -n + 3
