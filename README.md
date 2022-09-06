@@ -1,3 +1,1 @@
- The introduction part, directory and files                                                                                     
-
-
+This is for variables, global, local and reserved variables
